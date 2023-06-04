@@ -65,6 +65,7 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  arm64-darwin-22
   x86_64-linux
 
 DEPENDENCIES
@@ -73,9 +74,6 @@ DEPENDENCIES
   jekyll-paginate-v2
   jekyll-seo-tag
   webrick
-
-RUBY VERSION
-   ruby 3.0.2p107
 
 BUNDLED WITH
    2.3.10
