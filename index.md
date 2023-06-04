@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Samuel Adeoye
+title: samuel adeoye
 ---
+hey, my name is samuel.
 
-## About
+I have over 2years experience writing software.
 
-Hey
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+currently working at [Enaimco](https://www.enaimco.com/) as a software developer intern.
 
 ## About, Further
 

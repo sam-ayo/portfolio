@@ -1,6 +1,8 @@
-- name: Posts
-  link: /posts
-- name: Categories
-  link: /categories/
-- name: About & Contact
+- name: home
   link: /
+- name: right-now
+  link: /now/
+- name: past-projects
+  link: /projects/
+- name: about
+  link: /about/
